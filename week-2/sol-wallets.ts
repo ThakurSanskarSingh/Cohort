@@ -21,3 +21,4 @@ for(let i=0;i<4;i++){
     console.log(Keypair.fromSecretKey(secret).publicKey.toBase58())
     console.log("Solana key pair :  ",Keypair.fromSecretKey(secret))
 }
+
