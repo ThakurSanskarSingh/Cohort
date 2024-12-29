@@ -28,4 +28,4 @@ const PDA  =  PublicKey.createProgramAddressSync(
     ASSOCIATED_TOKEN_PROGRAM_ID
 )
 
-console.log(`PDA : ${PDA}`)
+console.log(`PDA is : ${PDA}`)
